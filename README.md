@@ -330,7 +330,7 @@
       logoUrl: "https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png",
 
       // Votre application Google Sites à lancer en mode autonome et masqué
-      targetAppUrl: "https://sites.google.com/u/0/d/1Xbyk5dnDXdAllJMw0D39H9yruQ8IVPVU/p/1AsH_osU61mXn-Xwend28C_x789tx897n/publishview",
+      targetAppUrl: "https://sites.google.com/view/x-press-livraison-gabon-/accueil?read_current=1",
 
       // --- AJOUTEZ VOS APPLICATIONS PARTENAIRES OU PUBLICITÉS ICI ---
       partnerApps: [
