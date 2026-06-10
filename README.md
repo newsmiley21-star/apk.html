@@ -231,7 +231,7 @@
         <div class="gemini-glow-outer"></div>
         <div class="gemini-glow-core"></div>
         <!-- Logo central dynamique -->
-        <img id="splash-logo" src="https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png" alt="Logo" class="absolute w-16 h-16 rounded-2xl object-cover z-10 shadow-2xl border-2 border-white/20 transition-transform duration-500 hover:scale-105">
+        <img id="splash-logo" src="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg" alt="Logo" class="absolute w-16 h-16 rounded-2xl object-cover z-10 shadow-2xl border-2 border-white/20 transition-transform duration-500 hover:scale-105">
       </div>
 
       <!-- Marque & Statuts de chargement -->
@@ -306,7 +306,7 @@
   <!-- ======================================================== -->
   <div id="install-guide" class="p-5 flex items-center justify-between text-left">
     <div class="flex items-center space-x-3.5">
-      <img id="guide-logo" src="https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png" alt="App Logo" class="w-11 h-11 rounded-xl object-cover border border-yellow-500/20">
+      <img id="guide-logo" src="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg" alt="App Logo" class="w-11 h-11 rounded-xl object-cover border border-yellow-500/20">
       <div>
         <h4 class="text-sm font-extrabold text-white">Installer l'Application</h4>
         <p class="text-[10px] text-slate-400 mt-0.5" id="install-instructions">Ajoutez-la à l'accueil pour masquer la barre d'adresse.</p>
@@ -327,7 +327,7 @@
     // =========================================================================
     const APPS_PRODUCTION_CONFIG = {
       // Lien direct de votre image Logo générée sur ImgBB (ex: https://i.ibb.co/xxxx/monlogo.png)
-      logoUrl: "https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png",
+      logoUrl: "https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg",
 
       // Votre application Google Sites à lancer en mode autonome et masqué
       targetAppUrl: "https://sites.google.com/view/x-press-livraison-gabon-/accueil",
@@ -335,16 +335,16 @@
       // --- AJOUTEZ VOS APPLICATIONS PARTENAIRES OU PUBLICITÉS ICI ---
       partnerApps: [
         {
-          name: "Portail Administratif",
+          name: "Demande de livraison",
           desc: "Gérez vos rapports et fiches de suivi en direct.",
-          logoUrl: "https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png",
-          link: "https://sites.google.com/u/0/d/1Xbyk5dnDXdAllJMw0D39H9yruQ8IVPVU/p/1AsH_osU61mXn-Xwend28C_x789tx897n/publishview" // Exemple identique
+          logoUrl: "https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg",
+          link: "https://newsmiley21-star.github.io/1.2.html/" // Exemple identique
         },
         {
-          name: "Outil de Statistiques",
+          name: "suivre un colis",
           desc: "Visualisez les métriques et KPIs de performance.",
           logoUrl: "https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png",
-          link: "https://wikipedia.org" // Remplacez par le vrai lien vers votre autre site HTML ou pub
+          link: "https://newsmiley21-star.github.io/consultation.html/" // Remplacez par le vrai lien vers votre autre site HTML ou pub
         }
       ],
 
