@@ -18,7 +18,7 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="default">
   <meta name="apple-mobile-web-app-title" content="Workspace">
-  <link id="apple-touch-icon" rel="apple-touch-icon" href="https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png">
+  <link id="apple-touch-icon" rel="apple-touch-icon" href="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg">
 
   <!-- Tailwind CSS pour un rendu haut de gamme -->
   <script src="https://cdn.tailwindcss.com"></script>
@@ -217,7 +217,7 @@
       <div class="ai-glow-container">
         <div class="ai-glow-outer"></div>
         <div class="ai-glow-core"></div>
-        <img id="splash-logo" src="https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png" alt="Logo" class="absolute w-16 h-16 rounded-[1.3rem] object-cover z-10 shadow-xl border-2 border-white">
+        <img id="splash-logo" src="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg" alt="Logo" class="absolute w-16 h-16 rounded-[1.3rem] object-cover z-10 shadow-xl border-2 border-white">
       </div>
 
       <h2 class="text-lg font-extrabold tracking-widest text-slate-800 mt-8 uppercase flex items-center gap-2">
@@ -255,7 +255,7 @@
 
       <!-- En-tête de l'application -->
       <div class="flex items-center space-x-4 mb-6 relative z-10">
-        <img id="app-logo" src="https://i.ibb.co/68gZbyz/whatsapp-logo-placeholder.png" alt="Logo principal" class="w-14 h-14 rounded-2xl object-cover border border-white shadow-md">
+        <img id="app-logo" src="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg" alt="Logo principal" class="w-14 h-14 rounded-2xl object-cover border border-white shadow-md">
         <div>
           <h1 id="app-name" class="text-xl font-extrabold text-slate-800 tracking-tight leading-none">Mon Portail Hub</h1>
           <span class="text-[10px] bg-emerald-50 text-emerald-600 border border-emerald-100 px-2.5 py-1 rounded-full font-bold tracking-wider uppercase mt-1.5 inline-block">Tableau de bord actif</span>
@@ -274,7 +274,7 @@
         <p class="text-xs text-slate-500 mb-5 leading-relaxed">Accédez à votre espace complet de rapports, de formulaires et de statistiques d'administration.</p>
         
         <!-- Le gros bouton brillant d'ouverture vers votre Google Site avec effet Ripple -->
-        <a href="https://sites.google.com/u/0/d/1Xbyk5dnDXdAllJMw0D39H9yruQ8IVPVU/p/1AsH_osU61mXn-Xwend28C_x789tx897n/publishview" target="_blank" class="ripple-btn w-full bg-[#4285f4] hover:bg-[#3367d6] text-white font-bold py-4 px-6 rounded-2xl shadow-lg shadow-blue-500/15 flex items-center justify-between group">
+        <a href="https://newsmiley21-star.github.io/index.html/#suivi-des-gains" target="_blank" class="ripple-btn w-full bg-[#4285f4] hover:bg-[#3367d6] text-white font-bold py-4 px-6 rounded-2xl shadow-lg shadow-blue-500/15 flex items-center justify-between group">
           <span class="text-sm font-extrabold tracking-wide">ACCÉDER À L'APPLICATION</span>
           <div class="flex items-center space-x-1.5">
             <span class="text-xs text-white/95 group-hover:underline">Ouvrir</span>
