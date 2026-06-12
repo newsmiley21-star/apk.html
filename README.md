@@ -428,7 +428,7 @@
   <div id="install-guide" class="p-5 flex items-center justify-between text-left">
     <div class="flex items-center space-x-3.5">
       <div class="p-1.5 bg-slate-100 rounded-2xl border border-slate-200">
-        <img id="guide-logo" src="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg" alt="App Logo" class="w-25 h-15 rounded-xl object-contain">
+        <img id="guide-logo" src="https://res.cloudinary.com/dyxob1wcj/image/upload/v1781134790/oeqlbzjhuvhbpmrzdpgh.jpg" alt="App Logo" class="w-15 h-15 rounded-xl object-contain">
       </div>
       <div>
         <h4 class="text-sm font-extrabold text-slate-800">Installer X-press</h4>
@@ -539,7 +539,7 @@
         partnerItem.className = "ripple-btn w-full flex items-center space-x-3.5 bg-white hover:bg-slate-50 border border-slate-100 p-3 rounded-2xl transition-all shadow-sm text-left";
         partnerItem.onclick = () => openInAppViewer(app.link, app.name);
         partnerItem.innerHTML = `
-          <img src="${app.logoUrl}" alt="Logo ${app.name}" class="w-25 h-15 rounded-xl object-contain border border-slate-100 bg-slate-50">
+          <img src="${app.logoUrl}" alt="Logo ${app.name}" class="w-10 h-10 rounded-xl object-contain border border-slate-100 bg-slate-50">
           <div class="flex-1 min-w-0">
             <h4 class="text-xs font-bold text-slate-800 truncate">${app.name}</h4>
             <p class="text-[10px] text-slate-400 truncate">${app.desc}</p>
